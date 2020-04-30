@@ -1,0 +1,7 @@
+<p>Hello <b>${firstname} ${lastname}</b></p>
+ 
+<p>The task <b>${taskName}</b> of <b>${processName}</b> is pending your action : <a href="${taskLink}"/>Click here</a></p>
+ 
+<p>Case number: ${caseId}</p>
+
+<p>Regards</p>
